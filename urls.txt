@@ -1,0 +1,6 @@
+https://www.google.com/
+https://mail.ru/
+A string, not an url
+https://www.wildberries.ru/
+https://www.telegram.org/
+And another string, not an url
